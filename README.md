@@ -329,7 +329,7 @@ Esta seção contém os artefatos gerados durante a fase de codificação e entr
 
 | Nome | Papel |
 | :--- | :--- |
-| José Alves Ferreira Neto | Product Owner / Gestão |
+| Everton Reinaldo Vilar | Product Owner / Gestão |
 | Alan Magalhães Barros | Scrum Master |
 | Alisson Rafael Silva de Almeida | Time (Desenvolvimento) |
 | Yuri da Silva Ferreira | Time (Desenvolvimento) |
